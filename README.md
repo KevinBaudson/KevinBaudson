@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou o Kevin Baudson! 😊</h1>
+<h1>Olá, eu sou o Kevin Baudson! 😊</h1>
 
-<p align="center">
+<p>
   📚 Formado em Análise e Desenvolvimento de Sistemas | Desenvolvedor Web <br>
   💡 Interesse em desenvolvimento <strong>Front-End</strong> e <strong>Back-End</strong> <br>
   🔍 Em busca da minha primeira oportunidade como programador
