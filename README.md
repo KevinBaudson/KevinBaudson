@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Kevin Baudson! 😊</h1>
+<h1>Olá, eu sou o Kevin Baudson!</h1>
 
 <p>
   📚 Formado em Análise e Desenvolvimento de Sistemas | Desenvolvedor Web <br>
