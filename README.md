@@ -2,25 +2,26 @@
 
 <p>
   📚 Formado em Análise e Desenvolvimento de Sistemas | Desenvolvedor Web <br>
+  📚 Pós-graduando em Engenharia de Software para Desenvolvimento Mobile<br>
   💡 Interesse em desenvolvimento <strong>Front-End</strong> e <strong>Back-End</strong> <br>
   🔍 Em busca da minha primeira oportunidade como programador
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Sou apaixonado por tecnologia, autodidata e estou sempre buscando aprender algo novo. Gosto de resolver problemas com código, estudar design e construir aplicações que ajudem pessoas. Estou me preparando para atuar como desenvolvedor júnior com foco em JavaScript, React e APIs.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Atuar como desenvolvedor júnior em projetos desafiadores, onde eu possa aplicar meus conhecimentos, evoluir profissionalmente e contribuir com soluções reais.
 
 ---
 
-## 🎓 Formação e Cursos
+## Formação e Cursos
 
 - 💻 **Análise e Desenvolvimento de Sistemas** - Uninter 
 - 📘 Curso: Desenvolvimento Web Completo - Udemy
@@ -29,7 +30,7 @@ Atuar como desenvolvedor júnior em projetos desafiadores, onde eu possa aplicar
 
 ---
 
-## 🧰 Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45px" />
@@ -45,7 +46,7 @@ Atuar como desenvolvedor júnior em projetos desafiadores, onde eu possa aplicar
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 🔹 [**Site de países e culturas**](https://kevinbaudson.github.io/search-countries/)  
 Sistema que consome a API Rest Countries para mostrar países e detalhes, com cards interativos e responsividade.
@@ -58,7 +59,7 @@ Aplicação com API do Github para encontrar devs.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinBaudson&show_icons=true&theme=radical&count_private=true" />
@@ -67,7 +68,7 @@ Aplicação com API do Github para encontrar devs.
 
 ---
 
-## 🌐 Redes Sociais
+## Redes Sociais
 
 <div align="center">
   <a href="https://www.instagram.com/kevinbaudson/" target="_blank">
@@ -86,7 +87,7 @@ Aplicação com API do Github para encontrar devs.
 
 ---
 
-## 📫 Contato
+## Contato
 
 - 📧 E-mail: kevinbaudson@gmail.com
 - 🌍 [**Portfólio Pessoal**](https://github.com/KevinBaudson/Landing-Page/) 
